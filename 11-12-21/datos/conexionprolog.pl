@@ -1,0 +1,1 @@
+test :- write( 'si hay conexion ,si funciona' ).
